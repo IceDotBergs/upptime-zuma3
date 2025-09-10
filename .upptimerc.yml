@@ -24,11 +24,11 @@ status-website:
   baseUrl: /upptime-zuma3
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime Zuma
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Live Projects Monitoring"
   introMessage: Active Zuma Project status. 
   navbar:
     - title: Home
-      href: /
+      href: /https://icedotbergs.github.io/upptime-zuma3/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
