@@ -28,7 +28,7 @@ status-website:
   introMessage: Active Zuma Project status. 
   navbar:
     - title: Home
-      href: /https://icedotbergs.github.io/upptime-zuma3/
+      href: /upptime-zuma3/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
