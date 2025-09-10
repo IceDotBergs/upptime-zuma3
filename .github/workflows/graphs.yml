@@ -15,25 +15,23 @@
 
 
 name: Graphs CI
+
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  repository_dispatch:
-    types: [graphs]
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+
 jobs:
-  release:
-    name: Generate graphs
+  graphs:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          ref: ${{ github.head_ref }}
-          token: ${{ secrets.GH_PAT || github.token }}
-      - name: Generate graphs
-        uses: upptime/uptime-monitor@v1.41.0
+          node-version: 18
+      - run: npm install -g upptime
+      - run: upptime graphs
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          command: "graphs"
-        env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          commit_message: "📈 Update graphs"
