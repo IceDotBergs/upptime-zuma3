@@ -1,21 +1,21 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: IceDotBergs # Your GitHub organization or username, where this repository lives
+repo: upptime-zuma3 # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: ULP
+    url: https://ulp.zumasales.com/
+  - name: Zuma CA
+    url: https://www.zuma.ca/
+  - name: Zuma Sales
+    url: https://zumasales.com/
+  - name: Lift Pros
+    url: https://scissorliftboomlift.com/
+#  - name: IPv6 test
+#   url: forwardemail.net
+#   port: 80
+#   check: "tcp-ping"
+#   ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
