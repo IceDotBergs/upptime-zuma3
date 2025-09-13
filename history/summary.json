@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ulp.zumasales.com.ico",
     "slug": "ulp",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 209,
-    "timeDay": 177,
-    "timeWeek": 209,
-    "timeMonth": 209,
-    "timeYear": 209,
-    "dailyMinutesDown": {
-      "2025-09-12": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 213,
+    "timeDay": 220,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zuma CA",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 359,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "time": 326,
+    "timeDay": 427,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 422,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "time": 285,
+    "timeDay": 149,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 426,
-    "timeWeek": 892,
-    "timeMonth": 892,
-    "timeYear": 892,
+    "time": 827,
+    "timeDay": 238,
+    "timeWeek": 827,
+    "timeMonth": 827,
+    "timeYear": 827,
     "dailyMinutesDown": {}
   }
 ]
