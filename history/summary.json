@@ -4,18 +4,20 @@
     "url": "https://ulp.zumasales.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ulp.zumasales.com.ico",
     "slug": "ulp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 261,
-    "timeWeek": 245,
-    "timeMonth": 220,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "time": 219,
+    "timeDay": 235,
+    "timeWeek": 241,
+    "timeMonth": 219,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2025-09-23": 0
+    }
   },
   {
     "name": "Zuma CA",
