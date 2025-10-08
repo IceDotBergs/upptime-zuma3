@@ -11,6 +11,10 @@ sites:
     url: https://zumasales.com/
   - name: Lift Pros
     url: https://scissorliftboomlift.com/
+  - name: TIP
+    url: https://tip.zumasales.com/
+  - name: ZEOS
+    url: https://zeos-xi.vercel.app/n
 #  - name: IPv6 test
 #   url: forwardemail.net
 #   port: 80
