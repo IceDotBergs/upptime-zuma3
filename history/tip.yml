@@ -1,7 +1,7 @@
 url: https://tip.zumasales.com/
-status: up
-code: 200
-responseTime: 320
-lastUpdated: 2025-10-08T23:16:12.978Z
+status: down
+code: 502
+responseTime: 163
+lastUpdated: 2025-10-09T18:54:34.159Z
 startTime: 2025-10-08T03:17:16.775Z
 generator: Upptime <https://github.com/upptime/upptime>
