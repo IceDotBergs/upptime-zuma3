@@ -101,19 +101,19 @@
     "url": "https://zeos-xi.vercel.app/n",
     "icon": "https://icons.duckduckgo.com/ip3/zeos-xi.vercel.app.ico",
     "slug": "zeos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2001,
-    "timeDay": 5412,
-    "timeWeek": 2698,
-    "timeMonth": 2001,
-    "timeYear": 2001,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 1938,
+    "timeDay": 4516,
+    "timeWeek": 2538,
+    "timeMonth": 1938,
+    "timeYear": 1938,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 110
     }
   }
 ]
