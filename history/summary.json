@@ -12,7 +12,7 @@
     "uptimeYear": "99.54%",
     "time": 390,
     "timeDay": 241,
-    "timeWeek": 330,
+    "timeWeek": 332,
     "timeMonth": 608,
     "timeYear": 390,
     "dailyMinutesDown": {
@@ -66,19 +66,19 @@
     "url": "https://scissorliftboomlift.com/",
     "icon": "https://icons.duckduckgo.com/ip3/scissorliftboomlift.com.ico",
     "slug": "lift-pros",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 624,
-    "timeWeek": 618,
-    "timeMonth": 745,
-    "timeYear": 763,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 759,
+    "timeDay": 564,
+    "timeWeek": 598,
+    "timeMonth": 736,
+    "timeYear": 759,
     "dailyMinutesDown": {
-      "2025-11-10": 0
+      "2025-11-10": 8
     }
   },
   {
@@ -94,7 +94,7 @@
     "uptimeYear": "99.19%",
     "time": 500,
     "timeDay": 317,
-    "timeWeek": 453,
+    "timeWeek": 439,
     "timeMonth": 529,
     "timeYear": 500,
     "dailyMinutesDown": {
